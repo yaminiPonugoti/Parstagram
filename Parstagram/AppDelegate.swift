@@ -22,6 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://murmuring-dusk-61063.herokuapp.com/parse"
             })
         )
+        
         return true
     }
 
