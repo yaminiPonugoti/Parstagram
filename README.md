@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-coming up soon
+![parstagramPt2Gif.gif](parstagramPt2Gif.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 # Parstagram - Part I
 
