@@ -21,6 +21,8 @@
 		EE6DB30023FB5E40007B077E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE6DB2FE23FB5E40007B077E /* LaunchScreen.storyboard */; };
 		EE6DB30B23FB5E40007B077E /* ParstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE6DB30A23FB5E40007B077E /* ParstagramTests.swift */; };
 		EE6DB31623FB5E40007B077E /* ParstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE6DB31523FB5E40007B077E /* ParstagramUITests.swift */; };
+		EE9EE9552407333300EDA67F /* AddCommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9EE9542407333300EDA67F /* AddCommentCell.swift */; };
+		EEB386FD2405FE70008C87DF /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEB386FC2405FE70008C87DF /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +68,8 @@
 		EE6DB31123FB5E40007B077E /* ParstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE6DB31523FB5E40007B077E /* ParstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParstagramUITests.swift; sourceTree = "<group>"; };
 		EE6DB31723FB5E40007B077E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE9EE9542407333300EDA67F /* AddCommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCommentCell.swift; sourceTree = "<group>"; };
+		EEB386FC2405FE70008C87DF /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		F3DD0F32F92EEB48D785B2B4 /* Pods_Parstagram_ParstagramUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram_ParstagramUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -148,6 +152,8 @@
 				EE6DB2F323FB5E3A007B077E /* AppDelegate.swift */,
 				EE6DB2F523FB5E3A007B077E /* SceneDelegate.swift */,
 				EE6DB2F923FB5E3A007B077E /* Main.storyboard */,
+				EE9EE9542407333300EDA67F /* AddCommentCell.swift */,
+				EEB386FC2405FE70008C87DF /* CommentCell.swift */,
 				EE27B35B24031CD80051AB3F /* PostCell.swift */,
 				EE27B3592402EE600051AB3F /* CameraViewController.swift */,
 				EE27B3552402E00D0051AB3F /* LoginViewController.swift */,
@@ -419,9 +425,11 @@
 				EE27B3562402E00D0051AB3F /* LoginViewController.swift in Sources */,
 				EE27B35A2402EE600051AB3F /* CameraViewController.swift in Sources */,
 				EE6DB2F423FB5E3A007B077E /* AppDelegate.swift in Sources */,
+				EE9EE9552407333300EDA67F /* AddCommentCell.swift in Sources */,
 				EE27B3582402E01E0051AB3F /* FeedViewController.swift in Sources */,
 				EE6DB2F623FB5E3A007B077E /* SceneDelegate.swift in Sources */,
 				EE27B35C24031CD80051AB3F /* PostCell.swift in Sources */,
+				EEB386FD2405FE70008C87DF /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
